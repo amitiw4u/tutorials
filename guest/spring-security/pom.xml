@@ -47,7 +47,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <thymeleaf-spring5.version>3.0.8.RELEASE</thymeleaf-spring5.version>
+        <thymeleaf-spring5.version>3.1.2.RELEASE</thymeleaf-spring5.version>
     </properties>
 
 </project>
