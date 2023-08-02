@@ -214,7 +214,7 @@
     </profiles>
 
     <properties>
-        <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
         <!-- persistence -->
         <hibernate.version>6.0.10.Final</hibernate.version>
         <mysql-connector-java.version>5.1.40</mysql-connector-java.version>
