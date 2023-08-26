@@ -39,7 +39,7 @@
 
     <properties>
         <spring.version>5.3.3</spring.version>
-        <spring-boot-starter.version>2.4.2</spring-boot-starter.version>
+        <spring-boot-starter.version>3.0.10</spring-boot-starter.version>
     </properties>
 
 </project>
