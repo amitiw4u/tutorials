@@ -116,7 +116,7 @@
         <async.http.client.version>2.2.0</async.http.client.version>
         <retrofit.version>2.3.0</retrofit.version>
         <unirest.version>1.4.9</unirest.version>
-        <javalin.version>1.6.0</javalin.version>
+        <javalin.version>5.0.0</javalin.version>
         <logging-interceptor.version>3.9.0</logging-interceptor.version>
     </properties>
 
