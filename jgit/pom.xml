@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <org.eclipse.jgit.version>4.5.0.201609210915-r</org.eclipse.jgit.version>
+        <org.eclipse.jgit.version>6.6.1.202309021850-r</org.eclipse.jgit.version>
     </properties>
 
 </project>
