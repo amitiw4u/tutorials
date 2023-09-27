@@ -39,7 +39,7 @@
     </dependencies>
 
     <properties>
-        <orientdb.version>2.2.31</orientdb.version>
+        <orientdb.version>3.0.0</orientdb.version>
         <blueprints.version>2.6.0</blueprints.version>
     </properties>
 
