@@ -61,7 +61,7 @@
 
     <properties>
         <api.version>3.0.0-M2</api.version>
-        <maven.version>2.0.9</maven.version>
+        <maven.version>3.0</maven.version>
         <plexus-container-default.version>1.0-alpha-9</plexus-container-default.version>
     </properties>
 
