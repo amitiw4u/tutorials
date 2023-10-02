@@ -15,7 +15,7 @@
         <groupId>io.spring.platform</groupId>
         <artifactId>platform-bom</artifactId>
         <version>Athens-RELEASE</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <dependencies>
@@ -599,14 +599,14 @@
         <thymeleaf.version>3.0.0.RELEASE</thymeleaf.version>
         <thymeleaf-layout-dialect.version>2.0.0</thymeleaf-layout-dialect.version>
         <thymeleaf-data-dialect.version>2.0.1</thymeleaf-data-dialect.version>
-        <dynamicjasper.version>5.0.11</dynamicjasper.version>
+        <dynamicjasper.version>5.3.5</dynamicjasper.version>
         <dynamicjasper-fonts.version>1.0</dynamicjasper-fonts.version>
         <bootstrap.version>3.3.6</bootstrap.version>
         <datatables.version>1.10.12</datatables.version>
         <datatables-bs.version>1.10.11</datatables-bs.version>
         <datatables-buttons.version>1.1.2</datatables-buttons.version>
         <datatables-buttons-bs.version>1.1.2</datatables-buttons-bs.version>
-        <datatables-responsive.version>2.0.2</datatables-responsive.version>
+        <datatables-responsive.version>2.2.3</datatables-responsive.version>
         <datatables-responsive-bs.version>2.0.2</datatables-responsive-bs.version>
         <datatables-select.version>1.1.2</datatables-select.version>
         <datatables-select-bs.version>1.1.2</datatables-select-bs.version>
