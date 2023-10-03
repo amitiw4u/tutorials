@@ -102,7 +102,7 @@
         <kryo.version>4.0.1</kryo.version>
         <smooks.version>1.7.0</smooks.version>
         <opencsv.version>4.1</opencsv.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.32.1</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <docx4j.version>3.3.5</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
