@@ -178,7 +178,7 @@
     </build>
 
     <properties>
-        <hibernate-core.version>5.2.10.Final</hibernate-core.version>
+        <hibernate-core.version>5.2.18.Final</hibernate-core.version>
         <spring-data-jpa.version>1.11.3.RELEASE</spring-data-jpa.version>
         <spring-boot-starter-test.version>1.5.10.RELEASE</spring-boot-starter-test.version>
         <cargo-maven2-plugin.version>1.7.6</cargo-maven2-plugin.version>
