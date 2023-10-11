@@ -48,10 +48,8 @@
                         </goals>
                         <configuration>
                             <transformers>
-                                <transformer
-                                    implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer" />
-                                <transformer
-                                    implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
+                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>com.baeldung.dropwizard.introduction.IntroductionApplication</mainClass>
                                 </transformer>
                             </transformers>
@@ -63,7 +61,7 @@
     </build>
 
     <properties>
-        <dropwizard.version>2.0.0</dropwizard.version>
+        <dropwizard.version>3.0.2</dropwizard.version>
     </properties>
 
 </project>
