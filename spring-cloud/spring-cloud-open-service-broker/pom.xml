@@ -34,7 +34,7 @@
 
     <properties>
         <spring-cloud-starter-open-service-broker.version>3.1.1.RELEASE</spring-cloud-starter-open-service-broker.version>
-        <spring-boot-starter-web.version>2.2.7.RELEASE</spring-boot-starter-web.version>
+        <spring-boot-starter-web.version>3.1.5</spring-boot-starter-web.version>
         <reactor-test.version>3.3.5.RELEASE</reactor-test.version>
     </properties>
 
