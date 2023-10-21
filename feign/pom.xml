@@ -38,7 +38,7 @@
     </dependencies>
 
     <properties>
-        <feign.version>10.11</feign.version>
+        <feign.version>13.0</feign.version>
     </properties>
 
 </project>
