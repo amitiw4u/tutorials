@@ -80,7 +80,7 @@
     </build>
 
     <properties>
-        <olingo2.version>2.0.11</olingo2.version>
+        <olingo2.version>2.0.13</olingo2.version>
     </properties>
 
 </project>
