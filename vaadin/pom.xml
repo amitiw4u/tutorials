@@ -178,7 +178,7 @@
     <properties>
         <vaadin.version>13.0.9</vaadin.version>
         <vaadin.plugin.version>13.0.9</vaadin.plugin.version>
-        <vaadin-spring-boot-starter.version>13.0.9</vaadin-spring-boot-starter.version>
+        <vaadin-spring-boot-starter.version>23.3.26</vaadin-spring-boot-starter.version>
         <vaadin-server.version>8.8.5</vaadin-server.version>
         <vaadin-push.version>8.8.5</vaadin-push.version>
         <vaadin-client-compiled.version>8.8.5</vaadin-client-compiled.version>
