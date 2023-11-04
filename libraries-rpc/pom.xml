@@ -28,7 +28,7 @@
 
     <properties>
         <finagle.core.version>20.4.0</finagle.core.version>
-        <finagle.http.version>20.4.0</finagle.http.version>
+        <finagle.http.version>23.11.0</finagle.http.version>
     </properties>
 
 </project>
