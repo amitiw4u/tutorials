@@ -57,7 +57,7 @@
     </repositories>
 
     <properties>
-        <spring-data-gemfire-version>1.7.4.RELEASE</spring-data-gemfire-version>
+        <spring-data-gemfire-version>1.9.23.RELEASE</spring-data-gemfire-version>
         <gemfire-version>7.0.1</gemfire-version>
         <google-collections-version>1.0</google-collections-version>
         <spring-context-version>4.3.0.RELEASE</spring-context-version>
