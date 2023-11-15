@@ -193,7 +193,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <avro.version>1.8.2</avro.version>
+        <avro.version>1.9.0</avro.version>
         <beam.version>2.19.0</beam.version>
         <bval.version>1.1.2</bval.version>
         <javax.validation.validation-api.version>1.1.0.Final</javax.validation.validation-api.version>
@@ -207,7 +207,7 @@
         <zookeeper.version>3.4.11</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <avaitility.version>1.7.0</avaitility.version>
-        <geode.core>1.6.0</geode.core>
+        <geode.core>1.14.0</geode.core>
         <solr.solr-solrj.version>6.4.0</solr.solr-solrj.version>
     </properties>
 
