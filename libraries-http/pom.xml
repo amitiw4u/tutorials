@@ -113,7 +113,7 @@
         <!-- <jackson.version>2.9.8</jackson.version> -->
         <com.squareup.okhttp3.version>4.9.1</com.squareup.okhttp3.version>
         <googleclient.version>1.23.0</googleclient.version>
-        <async.http.client.version>2.2.0</async.http.client.version>
+        <async.http.client.version>2.10.5</async.http.client.version>
         <retrofit.version>2.3.0</retrofit.version>
         <unirest.version>1.4.9</unirest.version>
         <javalin.version>1.6.0</javalin.version>
