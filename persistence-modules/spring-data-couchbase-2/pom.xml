@@ -70,7 +70,7 @@
 
     <properties>
         <spring-framework.version>4.3.4.RELEASE</spring-framework.version>
-        <spring-data-couchbase.version>2.1.5.RELEASE</spring-data-couchbase.version>
+        <spring-data-couchbase.version>2.2.23.RELEASE</spring-data-couchbase.version>
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
         <joda-time.version>2.9.6</joda-time.version>
         <javax.el.version>3.0.0</javax.el.version>
