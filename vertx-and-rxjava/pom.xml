@@ -46,7 +46,7 @@
     </build>
 
     <properties>
-        <vertx.version>3.5.0.Beta1</vertx.version>
+        <vertx.version>3.9.0</vertx.version>
     </properties>
 
 </project>
