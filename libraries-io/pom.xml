@@ -39,7 +39,7 @@
     <properties>
         <!-- sftp -->
         <jsch.version>0.1.55</jsch.version>
-        <sshj.version>0.27.0</sshj.version>
+        <sshj.version>0.36.0</sshj.version>
         <vfs.version>2.4</vfs.version>
     </properties>
 
