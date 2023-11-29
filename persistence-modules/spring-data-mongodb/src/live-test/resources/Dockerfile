@@ -1,4 +1,4 @@
-FROM mongo:4.2.1
+FROM mongo:4.4
 
 COPY init-session.js /docker-entrypoint-initdb.d/
 
