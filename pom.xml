@@ -262,7 +262,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -281,7 +281,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -1421,7 +1421,7 @@
 
         <!-- logging -->
         <org.slf4j.version>1.7.32</org.slf4j.version>
-        <logback.version>1.2.6</logback.version>
+        <logback.version>1.2.13</logback.version>
 
         <!-- plugins -->
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
