@@ -71,7 +71,7 @@
 
     <properties>
         <json.version>20190722</json.version>
-        <mvc-auth-commons.version>1.2.0</mvc-auth-commons.version>
+        <mvc-auth-commons.version>1.11.0</mvc-auth-commons.version>
     </properties>
 
 </project>
