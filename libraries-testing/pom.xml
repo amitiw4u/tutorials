@@ -184,7 +184,7 @@
     </build>
 
     <properties>
-        <asciidoctor.version>1.5.7.1</asciidoctor.version>
+        <asciidoctor.version>2.2.4</asciidoctor.version>
         <serenity.version>1.9.9</serenity.version>
         <serenity.jbehave.version>1.9.0</serenity.jbehave.version>
         <serenity.jira.version>1.9.0</serenity.jira.version>
