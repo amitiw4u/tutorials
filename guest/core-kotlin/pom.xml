@@ -184,7 +184,7 @@
     <properties>
         <maven-failsafe-plugin.version>2.22.0</maven-failsafe-plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kotlin-maven-plugin.version>1.2.60</kotlin-maven-plugin.version>
+        <kotlin-maven-plugin.version>1.8.20</kotlin-maven-plugin.version>
         <kotlin-test-junit.version>1.2.51</kotlin-test-junit.version>
         <kotlin-stdlib.version>1.2.51</kotlin-stdlib.version>
         <kotlin-reflect.version>1.2.51</kotlin-reflect.version>
