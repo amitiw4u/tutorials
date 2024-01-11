@@ -122,7 +122,7 @@
     </dependencies>
 
     <properties>
-        <mapdb.version>3.0.7</mapdb.version>
+        <mapdb.version>3.1.0</mapdb.version>
         <classgraph.version>4.8.28</classgraph.version>
         <jbpm.version>6.0.0.Final</jbpm.version>
         <picocli.version>3.9.6</picocli.version>
