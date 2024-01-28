@@ -164,7 +164,7 @@
         <hibernate.version>5.2.5.Final</hibernate.version>
         <mysql-connector-java.version>5.1.40</mysql-connector-java.version>
         <tomcat-dbcp.version>7.0.73</tomcat-dbcp.version>
-        <derby.version>10.13.1.1</derby.version>
+        <derby.version>10.17.1.0</derby.version>
         <!-- various -->
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
         <javax.el.version>2.2</javax.el.version>
