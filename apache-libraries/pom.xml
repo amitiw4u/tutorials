@@ -208,7 +208,7 @@
         <curator.version>4.0.1</curator.version>
         <avaitility.version>1.7.0</avaitility.version>
         <geode.core>1.6.0</geode.core>
-        <solr.solr-solrj.version>6.4.0</solr.solr-solrj.version>
+        <solr.solr-solrj.version>8.11.3</solr.solr-solrj.version>
     </properties>
 
 </project>
