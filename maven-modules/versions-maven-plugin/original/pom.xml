@@ -65,7 +65,7 @@
     </repositories>
 
     <properties>
-        <commons-compress-version>1.15</commons-compress-version>
+        <commons-compress-version>1.26.0</commons-compress-version>
         <commons-io.version>2.3</commons-io.version>
         <commons-collections4.version>4.0</commons-collections4.version>
         <commons-beanutils.version>1.9.1</commons-beanutils.version>
