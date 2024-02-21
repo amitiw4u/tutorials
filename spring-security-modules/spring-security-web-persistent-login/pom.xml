@@ -170,7 +170,7 @@
         <!-- Spring -->
         <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
         <!-- persistence -->
-        <postgresql.version>9.4.1212</postgresql.version>
+        <postgresql.version>42.7.2</postgresql.version>
         <!-- util -->
         <guava.version>19.0</guava.version>
         <!-- Maven plugins -->
