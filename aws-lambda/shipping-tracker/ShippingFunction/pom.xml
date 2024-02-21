@@ -68,7 +68,7 @@
         <aws-lambda-java-core.version>1.2.0</aws-lambda-java-core.version>
         <aws-lambda-java-events.version>3.1.0</aws-lambda-java-events.version>
         <jackson-databind.version>2.11.2</jackson-databind.version>
-        <postgresql.version>42.2.16</postgresql.version>
+        <postgresql.version>42.7.2</postgresql.version>
     </properties>
 
 </project>
