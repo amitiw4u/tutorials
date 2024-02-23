@@ -100,7 +100,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>5.0.1.RELEASE</org.springframework.version>
+        <org.springframework.version>5.3.32</org.springframework.version>
         <!-- Spring Web Flow -->
         <spring.webflow>2.5.0.RELEASE</spring.webflow>
         <httpcore.version>4.4.5</httpcore.version>
