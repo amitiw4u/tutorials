@@ -51,7 +51,7 @@
     </build>
 
     <properties>
-        <flowable.version>6.4.1</flowable.version>
+        <flowable.version>6.8.1</flowable.version>
     </properties>
 
 </project>
