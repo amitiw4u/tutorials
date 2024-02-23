@@ -134,7 +134,7 @@
         <spring-context.version>4.3.6.RELEASE</spring-context.version>
         <apacheds.version>1.5.5</apacheds.version>
         <shared-ldap.version>0.9.15</shared-ldap.version>
-        <spring-data-ldap.version>1.0.6.RELEASE</spring-data-ldap.version>
+        <spring-data-ldap.version>1.0.12.RELEASE</spring-data-ldap.version>
         <spring-data-jpa.version>1.11.6.RELEASE</spring-data-jpa.version>
     </properties>
 
