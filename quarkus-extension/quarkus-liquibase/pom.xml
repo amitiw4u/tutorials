@@ -20,7 +20,7 @@
     </modules>
 
     <properties>
-        <quarkus.version>1.0.0.Final</quarkus.version>
+        <quarkus.version>3.8.1</quarkus.version>
     </properties>
 
 </project>
