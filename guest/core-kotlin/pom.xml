@@ -187,7 +187,7 @@
         <kotlin-maven-plugin.version>1.2.60</kotlin-maven-plugin.version>
         <kotlin-test-junit.version>1.2.51</kotlin-test-junit.version>
         <kotlin-stdlib.version>1.2.51</kotlin-stdlib.version>
-        <kotlin-reflect.version>1.2.51</kotlin-reflect.version>
+        <kotlin-reflect.version>1.9.23</kotlin-reflect.version>
         <kotlinx.version>0.22.5</kotlinx.version>
         <mockito-kotlin.version>1.5.0</mockito-kotlin.version>
         <commons-math3.version>3.6.1</commons-math3.version>
