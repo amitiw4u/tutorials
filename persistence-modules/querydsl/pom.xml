@@ -132,7 +132,7 @@
     </build>
 
     <properties>
-        <spring.version>4.3.4.RELEASE</spring.version>
+        <spring.version>5.3.33</spring.version>
         <hibernate.version>5.2.5.Final</hibernate.version>
         <hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
         <querydsl.version>4.1.4</querydsl.version>
