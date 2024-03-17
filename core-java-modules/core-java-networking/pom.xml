@@ -27,7 +27,7 @@
     </build>
 
     <properties>
-        <springframework.spring-web.version>4.3.4.RELEASE</springframework.spring-web.version>
+        <springframework.spring-web.version>5.3.33</springframework.spring-web.version>
     </properties>
 
 </project>
