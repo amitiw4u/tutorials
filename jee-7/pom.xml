@@ -228,7 +228,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -501,7 +501,7 @@
         <tyrus.version>1.13</tyrus.version>
         <jersey.version>2.25</jersey.version>
         <arquillian-glassfish.version>1.0.0.Final</arquillian-glassfish.version>
-        <org.springframework.security.version>4.2.3.RELEASE</org.springframework.security.version>
+        <org.springframework.security.version>5.8.11</org.springframework.security.version>
         <taglibs.standard.version>1.1.2</taglibs.standard.version>
         <com.sun.faces.jsf.version>2.2.14</com.sun.faces.jsf.version>
         <httpclient.version>4.5</httpclient.version>
