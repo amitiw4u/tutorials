@@ -192,7 +192,7 @@
         <mockito-kotlin.version>1.5.0</mockito-kotlin.version>
         <commons-math3.version>3.6.1</commons-math3.version>
         <assertj.version>3.10.0</assertj.version>
-        <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
         <spek.api.version>1.1.5</spek.api.version>
         <spek.subject.version>1.1.5</spek.subject.version>
         <spek.junit.version>1.1.5</spek.junit.version>
