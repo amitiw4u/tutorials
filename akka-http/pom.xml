@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <akka.http.version>10.0.11</akka.http.version>
+        <akka.http.version>10.5.3</akka.http.version>
         <akka.stream.version>2.5.11</akka.stream.version>
     </properties>
 
