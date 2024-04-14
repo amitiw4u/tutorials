@@ -31,7 +31,7 @@
     </dependencies>
 
     <properties>
-        <google-cloud-storage.version>1.16.0</google-cloud-storage.version>
+        <google-cloud-storage.version>1.62.0</google-cloud-storage.version>
     </properties>
 
 </project>
