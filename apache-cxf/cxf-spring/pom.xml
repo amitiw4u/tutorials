@@ -103,7 +103,7 @@
     </profiles>
 
     <properties>
-        <spring.version>4.3.4.RELEASE</spring.version>
+        <spring.version>5.3.34</spring.version>
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
     </properties>
 
