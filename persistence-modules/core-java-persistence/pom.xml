@@ -59,7 +59,7 @@
         <HikariCP.version>3.2.0</HikariCP.version>
         <c3p0.version>0.9.5.2</c3p0.version>
         <springframework.boot.spring-boot-starter.version>1.5.8.RELEASE</springframework.boot.spring-boot-starter.version>
-        <springframework.spring-web.version>4.3.4.RELEASE</springframework.spring-web.version>
+        <springframework.spring-web.version>5.3.34</springframework.spring-web.version>
     </properties>
 
 </project>
