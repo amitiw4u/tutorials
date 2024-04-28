@@ -170,7 +170,7 @@
     </profiles>
 
     <properties>
-        <quarkus.version>1.7.0.Final</quarkus.version>
+        <quarkus.version>3.9.5</quarkus.version>
         <lombok.version>1.18.6</lombok.version>
     </properties>
 
