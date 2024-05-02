@@ -28,7 +28,7 @@
 
     <properties>
         <!-- testing -->
-        <xmlunit.version>2.3.0</xmlunit.version>
+        <xmlunit.version>2.10.0</xmlunit.version>
     </properties>
 
 </project>
