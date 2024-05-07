@@ -83,7 +83,7 @@
         <app.name>library</app.name>
         <package.file>${project.build.directory}/${app.name}-service.jar</package.file>
         <packaging.type>runnable</packaging.type>
-        <microprofile.version>1.2</microprofile.version>
+        <microprofile.version>1.4</microprofile.version>
         <liberty-maven-plugin.version>2.1.2</liberty-maven-plugin.version>
         <openliberty-runtime.version>17.0.0.4</openliberty-runtime.version>
     </properties>
