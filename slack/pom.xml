@@ -54,7 +54,7 @@
     </build>
 
     <properties>
-        <slack.version>1.4</slack.version>
+        <slack.version>1.16.0</slack.version>
         <maven-jar-plugin.version>2.4</maven-jar-plugin.version>
     </properties>
 
