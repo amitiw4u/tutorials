@@ -80,7 +80,7 @@
         <js-cookie.version>2.2.0</js-cookie.version>
         <spring-cloud-starter-netflix-zuul.version>2.2.7.RELEASE</spring-cloud-starter-netflix-zuul.version>
         <jquery.version>3.4.1</jquery.version>
-        <bootstrap.version>4.3.1</bootstrap.version>
+        <bootstrap.version>5.3.3</bootstrap.version>
     </properties>
 
 </project>
