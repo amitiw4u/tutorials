@@ -6,6 +6,6 @@
     "dependencies": {
          "typings": "0.6.5",
          "jsonforms": "0.0.19",
-         "bootstrap": "3.3.6"
+         "bootstrap": "5.0.0"
      }
 }
