@@ -22,7 +22,7 @@
     </dependencies>
 
     <properties>
-        <easy-random-core.version>4.0.0</easy-random-core.version>
+        <easy-random-core.version>4.2.0</easy-random-core.version>
     </properties>
 
 </project>
