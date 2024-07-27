@@ -128,9 +128,9 @@
         <maven-failsafe-plugin.version>2.22.2</maven-failsafe-plugin.version>
         <selenium.version>3.141.59</selenium.version>
         <webdrivermanager.version>4.3.1</webdrivermanager.version>
-        <webjars-locator.version>0.40</webjars-locator.version>
+        <webjars-locator.version>0.47</webjars-locator.version>
         <jquery.version>3.0.0</jquery.version>
-        <bootstrap.version>4.5.3</bootstrap.version>
+        <bootstrap.version>5.0.0</bootstrap.version>
         <spring-cloud-contract-wiremock.version>2.2.5.RELEASE</spring-cloud-contract-wiremock.version>
     </properties>
 
