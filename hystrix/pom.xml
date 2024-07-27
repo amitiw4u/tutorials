@@ -55,7 +55,7 @@
         <hystrix-core.version>1.5.8</hystrix-core.version>
         <rxjava-core.version>0.20.7</rxjava-core.version>
         <!-- maven plugins -->
-        <hystrix-metrics-event-stream.version>1.5.8</hystrix-metrics-event-stream.version>
+        <hystrix-metrics-event-stream.version>1.5.9</hystrix-metrics-event-stream.version>
     </properties>
 
 </project>
