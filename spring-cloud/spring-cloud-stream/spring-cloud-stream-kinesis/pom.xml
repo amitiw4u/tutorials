@@ -37,7 +37,7 @@
     </dependencies>
 
     <properties>
-        <aws-sdk.version>1.11.632</aws-sdk.version>
+        <aws-sdk.version>1.12.766</aws-sdk.version>
         <spring-cloud-stream-kinesis-binder.version>2.0.2.RELEASE</spring-cloud-stream-kinesis-binder.version>
         <spring-cloud-stream-test.version>2.2.1.RELEASE</spring-cloud-stream-test.version>
     </properties>
