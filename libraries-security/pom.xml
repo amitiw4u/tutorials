@@ -106,7 +106,7 @@
         <jasypt.version>1.9.2</jasypt.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <jsch.version>0.1.55</jsch.version>
-        <apache-mina.version>2.5.1</apache-mina.version>
+        <apache-mina.version>2.12.0</apache-mina.version>
         <spring-security-oauth2.version>2.4.0.RELEASE</spring-security-oauth2.version>
         <xacml4j.version>1.4.0</xacml4j.version>
     </properties>
