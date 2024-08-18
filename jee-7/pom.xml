@@ -228,7 +228,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -511,7 +511,7 @@
         <jsp-api.version>2.2</jsp-api.version>
         <ozark.version>1.0.0-m02</ozark.version>
         <jboss-batch-api.version>1.0.0.Final</jboss-batch-api.version>
-        <jberet.version>1.0.2.Final</jberet.version>
+        <jberet.version>2.2.1.Final</jberet.version>
         <jboss-transaction-api.version>1.0.0.Final</jboss-transaction-api.version>
         <jboss-marshalling.version>1.4.2.Final</jboss-marshalling.version>
         <weld.version>2.1.1.Final</weld.version>
