@@ -124,7 +124,7 @@
     <properties>
         <mapdb.version>3.0.7</mapdb.version>
         <classgraph.version>4.8.28</classgraph.version>
-        <jbpm.version>6.0.0.Final</jbpm.version>
+        <jbpm.version>6.1.0.Final</jbpm.version>
         <picocli.version>3.9.6</picocli.version>
         <chronicle.map.version>3.17.2</chronicle.map.version>
         <crawler4j.version>4.4.0</crawler4j.version>
