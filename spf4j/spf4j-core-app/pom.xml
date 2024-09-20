@@ -103,7 +103,7 @@
     </build>
 
     <properties>
-        <spf4j.version>8.9.0</spf4j.version>
+        <spf4j.version>8.9.6</spf4j.version>
         <compiler.plugin.version>3.8.0</compiler.plugin.version>
         <dependency.plugin.version>3.1.1</dependency.plugin.version>
     </properties>
