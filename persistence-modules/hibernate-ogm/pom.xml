@@ -42,7 +42,7 @@
     </dependencies>
 
     <properties>
-        <hibernate.version>5.4.0.Final</hibernate.version>
+        <hibernate.version>5.4.2.Final</hibernate.version>
         <fest-assert.version>1.4</fest-assert.version>
         <narayana-jta.version>5.5.23.Final</narayana-jta.version>
     </properties>
