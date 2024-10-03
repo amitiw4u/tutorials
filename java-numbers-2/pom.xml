@@ -39,7 +39,7 @@
     </build>
 
     <properties>
-        <dsiutils.version>2.6.0</dsiutils.version>
+        <dsiutils.version>2.6.15</dsiutils.version>
     </properties>
 
 </project>
