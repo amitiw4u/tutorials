@@ -68,7 +68,7 @@
     </build>
 
     <properties>
-        <struts2.version>2.5.5</struts2.version>
+        <struts2.version>6.4.0</struts2.version>
         <struts2-convention-plugin.version>2.5.8</struts2-convention-plugin.version>
         <spring.version>4.3.6.RELEASE</spring.version>
     </properties>
