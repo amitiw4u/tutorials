@@ -304,7 +304,7 @@
         <!-- persistence -->
         <rsql.version>2.1.0</rsql.version>
         <!-- various -->
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
         <javassist.version>3.21.0-GA</javassist.version>
         <xml-apis.version>1.4.01</xml-apis.version>
         <!-- util -->
