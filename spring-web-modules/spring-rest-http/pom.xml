@@ -57,7 +57,7 @@
     </dependencies>
 
     <properties>
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
         <jsonpatch.version>1.12</jsonpatch.version>
     </properties>
 
