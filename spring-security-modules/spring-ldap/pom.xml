@@ -130,12 +130,12 @@
     </profiles>
 
     <properties>
-        <spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
-        <spring-context.version>4.3.6.RELEASE</spring-context.version>
+        <spring-ldap.version>3.2.8</spring-ldap.version>
+        <spring-context.version>6.1.14</spring-context.version>
         <apacheds.version>1.5.5</apacheds.version>
         <shared-ldap.version>0.9.15</shared-ldap.version>
-        <spring-data-ldap.version>1.0.6.RELEASE</spring-data-ldap.version>
-        <spring-data-jpa.version>1.11.6.RELEASE</spring-data-jpa.version>
+        <spring-data-ldap.version>3.2.11</spring-data-ldap.version>
+        <spring-data-jpa.version>3.2.11</spring-data-jpa.version>
     </properties>
 
 </project>
