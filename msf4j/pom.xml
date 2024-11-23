@@ -40,7 +40,7 @@
 
     <properties>
         <microservice.mainClass>com.baeldung.msf4j.msf4jintro.Application</microservice.mainClass>
-        <msf4j.version>2.6.3</msf4j.version>
+        <msf4j.version>2.7.1</msf4j.version>
     </properties>
 
 </project>
