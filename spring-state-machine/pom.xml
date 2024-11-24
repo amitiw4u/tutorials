@@ -32,8 +32,8 @@
     </dependencies>
 
     <properties>
-        <spring-statemachine-core.version>1.2.3.RELEASE</spring-statemachine-core.version>
-        <spring-test.version>4.3.7.RELEASE</spring-test.version>
+        <spring-statemachine-core.version>2.0.0.RELEASE</spring-statemachine-core.version>
+        <spring-test.version>6.1.14</spring-test.version>
         <jayway.awaitility.version>1.7.0</jayway.awaitility.version>
     </properties>
 
