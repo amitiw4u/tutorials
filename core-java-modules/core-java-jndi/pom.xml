@@ -63,7 +63,7 @@
     </build>
 
     <properties>
-        <spring.version>5.0.9.RELEASE</spring.version>
+        <spring.version>6.1.14</spring.version>
         <h2.version>1.4.199</h2.version>
         <apacheds.version>2.0.0.AM26</apacheds.version>
         <source.version>1.8</source.version>
