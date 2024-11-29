@@ -184,10 +184,10 @@
     <properties>
         <maven-failsafe-plugin.version>2.22.0</maven-failsafe-plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kotlin-maven-plugin.version>1.2.60</kotlin-maven-plugin.version>
+        <kotlin-maven-plugin.version>2.1.0</kotlin-maven-plugin.version>
         <kotlin-test-junit.version>1.2.51</kotlin-test-junit.version>
-        <kotlin-stdlib.version>1.2.51</kotlin-stdlib.version>
-        <kotlin-reflect.version>1.2.51</kotlin-reflect.version>
+        <kotlin-stdlib.version>2.1.0</kotlin-stdlib.version>
+        <kotlin-reflect.version>2.1.0</kotlin-reflect.version>
         <kotlinx.version>0.22.5</kotlinx.version>
         <mockito-kotlin.version>1.5.0</mockito-kotlin.version>
         <commons-math3.version>3.6.1</commons-math3.version>
