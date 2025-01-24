@@ -55,7 +55,7 @@
     </build>
 
     <properties>
-        <cxf-version>3.2.0</cxf-version>
+        <cxf-version>3.5.10</cxf-version>
     </properties>
 
 </project>
