@@ -22,7 +22,7 @@
     </dependencies>
 
     <properties>
-        <tika.version>1.17</tika.version>
+        <tika.version>2.0.0</tika.version>
     </properties>
 
 </project>
