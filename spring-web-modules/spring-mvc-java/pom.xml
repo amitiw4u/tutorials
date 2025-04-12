@@ -235,7 +235,7 @@
         <!-- AspectJ -->
         <aspectj.version>1.9.1</aspectj.version>
         <!-- excel -->
-        <poi.version>3.16-beta1</poi.version>
+        <poi.version>5.4.0</poi.version>
         <javax.el.version>3.0.1-b09</javax.el.version>
         <javax.version>4.0.1</javax.version>
         <javax-servlet-api.version>2.3.3</javax-servlet-api.version>
