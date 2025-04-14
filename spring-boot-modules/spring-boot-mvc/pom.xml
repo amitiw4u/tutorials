@@ -115,7 +115,7 @@
     <properties>
         <spring.fox.version>3.0.0</spring.fox.version>
         <!-- ROME for RSS -->
-        <rome.version>1.10.0</rome.version>
+        <rome.version>1.14.0</rome.version>
         <javax.faces.version>2.3.7</javax.faces.version>
         <start-class>com.baeldung.springbootmvc.SpringBootMvcApplication</start-class>
     </properties>
