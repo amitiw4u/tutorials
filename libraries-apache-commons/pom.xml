@@ -62,7 +62,7 @@
 
     <properties>
         <commons-text.version>1.1</commons-text.version>
-        <commons-beanutils.version>1.9.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-chain.version>1.2</commons-chain.version>
         <commons.dbutils.version>1.6</commons.dbutils.version>
         <xchart-version>3.5.2</xchart-version>
