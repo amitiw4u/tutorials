@@ -58,7 +58,7 @@
     </build>
 
     <properties>
-        <okta.spring.version>1.4.0</okta.spring.version>
+        <okta.spring.version>2.0.0</okta.spring.version>
     </properties>
 
 </project>
