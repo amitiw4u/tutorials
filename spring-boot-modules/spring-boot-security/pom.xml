@@ -81,7 +81,7 @@
     <properties>
         <start-class>com.baeldung.springbootsecurity.basic_auth.SpringBootSecurityApplication</start-class>
         <spring-security-oauth2.version>2.4.0.RELEASE</spring-security-oauth2.version>
-        <spring-security-oauth2-autoconfigure.version>2.2.2.RELEASE</spring-security-oauth2-autoconfigure.version>
+        <spring-security-oauth2-autoconfigure.version>2.6.0</spring-security-oauth2-autoconfigure.version>
     </properties>
 
 </project>
