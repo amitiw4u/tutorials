@@ -70,7 +70,7 @@
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
-        <maven-plugin-api.version>3.6.2</maven-plugin-api.version>
+        <maven-plugin-api.version>3.9.8</maven-plugin-api.version>
         <maven-plugin-annotations.version>3.6.0</maven-plugin-annotations.version>
         <maven-project.version>2.2.1</maven-project.version>
         <maven-plugin-plugin.version>3.6.0</maven-plugin-plugin.version>
