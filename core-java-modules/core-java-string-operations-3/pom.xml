@@ -77,11 +77,11 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <spring-core.version>5.3.9</spring-core.version>
-        <apache-commons-lang3.version>3.12.0</apache-commons-lang3.version>
+        <apache-commons-lang3.version>3.18.0</apache-commons-lang3.version>
         <guava.version>31.0.1-jre</guava.version>
-        <maven-artifact.version>3.6.3</maven-artifact.version>
+        <maven-artifact.version>3.9.8</maven-artifact.version>
         <gradle-core.version>6.1.1</gradle-core.version>
-        <jackson-core.version>2.11.1</jackson-core.version>
+        <jackson-core.version>2.15.0</jackson-core.version>
         <semver4j.version>3.1.0</semver4j.version>
     </properties>
 
