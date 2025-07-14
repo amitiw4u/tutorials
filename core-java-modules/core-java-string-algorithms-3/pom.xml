@@ -50,7 +50,7 @@
 
     <properties>
         <guava.version>31.0.1-jre</guava.version>
-        <validator.version>1.7</validator.version>
+        <validator.version>1.10.0</validator.version>
     </properties>
 
 </project>
