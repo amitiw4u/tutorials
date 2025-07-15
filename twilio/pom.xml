@@ -22,7 +22,7 @@
     </dependencies>
 
     <properties>
-        <twilio.version>7.20.0</twilio.version>
+        <twilio.version>10.6.8</twilio.version>
     </properties>
 
 </project>
