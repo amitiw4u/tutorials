@@ -222,7 +222,7 @@
         <jcabi-maven-plugin.version>0.14.1</jcabi-maven-plugin.version>
         <aspectjtools.version>1.9.2</aspectjtools.version>
         <aspectjweaver.version>1.9.2</aspectjweaver.version>
-        <takes.version>1.19</takes.version>
+        <takes.version>1.21.1</takes.version>
         <httpcore.version>4.4.13</httpcore.version>
         <httpclient.version>4.5.12</httpclient.version>
         <velocity-engine-core.version>2.2</velocity-engine-core.version>
