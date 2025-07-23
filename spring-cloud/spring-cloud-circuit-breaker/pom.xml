@@ -39,7 +39,7 @@
     </dependencies>
 
     <properties>
-        <circuitbreaker-resilience4j.version>1.0.2.RELEASE</circuitbreaker-resilience4j.version>
+        <circuitbreaker-resilience4j.version>2.1.8</circuitbreaker-resilience4j.version>
     </properties>
 
 </project>
