@@ -49,7 +49,7 @@
     
     <properties>
         <icu.version>64.2</icu.version>
-        <commons-text.version>1.9</commons-text.version>
+        <commons-text.version>1.14.0</commons-text.version>
         <guava.version>30.1.1-jre</guava.version>
     </properties>
 
