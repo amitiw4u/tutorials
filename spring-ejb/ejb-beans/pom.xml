@@ -182,7 +182,7 @@
 
     <properties>
         <arquillian-bom.version>1.6.0.Final</arquillian-bom.version>
-        <tomee-embedded.version>8.0.8</tomee-embedded.version>
+        <tomee-embedded.version>8.0.16</tomee-embedded.version>
         <glassfish-embedded-all.version>6.2.2</glassfish-embedded-all.version>
         <arquillian-glassfish-embedded-3.1.version>1.0.2</arquillian-glassfish-embedded-3.1.version>
         <wildfly.version>8.2.1.Final</wildfly.version>
