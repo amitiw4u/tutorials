@@ -117,7 +117,7 @@
         <scala.version>2.11</scala.version>
         <typesafe-akka.version>2.5.11</typesafe-akka.version>
         <streamex.version>0.6.5</streamex.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
         <caffeine.version>2.5.5</caffeine.version>
         <findbugs.version>3.0.2</findbugs.version>
         <fugue.version>4.5.1</fugue.version>
