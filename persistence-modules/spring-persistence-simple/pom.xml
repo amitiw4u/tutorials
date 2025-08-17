@@ -86,7 +86,7 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>5.2.4.RELEASE</org.springframework.version>
+        <org.springframework.version>6.1.14</org.springframework.version>
         <spring-boot-starter.version>2.3.3.RELEASE</spring-boot-starter.version>
         <!-- persistence -->
         <persistence-api.version>2.2</persistence-api.version>
