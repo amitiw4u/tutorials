@@ -130,8 +130,8 @@
     </build>
 
     <properties>
-        <spring-tx.version>5.2.2.RELEASE</spring-tx.version>
-        <spring-data-r2dbc.version>1.0.0.RELEASE</spring-data-r2dbc.version>
+        <spring-tx.version>6.2.11</spring-tx.version>
+        <spring-data-r2dbc.version>3.4.10</spring-data-r2dbc.version>
         <r2dbc-h2.version>0.8.1.RELEASE</r2dbc-h2.version>
         <httpclient.version>4.5.2</httpclient.version>
         <couchbaseMock.version>1.5.23</couchbaseMock.version>
