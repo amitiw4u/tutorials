@@ -136,7 +136,7 @@
     </build>
 
     <properties>
-        <spring-data.version>2.3.2.RELEASE</spring-data.version>
+        <spring-data.version>3.4.10</spring-data.version>
         <org.thymeleaf-version>3.0.11.RELEASE</org.thymeleaf-version>
         <org.thymeleaf.extras-version>3.0.4.RELEASE</org.thymeleaf.extras-version>
         <thymeleaf-layout-dialect.version>2.4.1</thymeleaf-layout-dialect.version>
