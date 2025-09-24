@@ -76,7 +76,7 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <spring-core.version>5.3.9</spring-core.version>
+        <spring-core.version>6.2.11</spring-core.version>
         <apache-commons-lang3.version>3.12.0</apache-commons-lang3.version>
         <guava.version>31.0.1-jre</guava.version>
         <maven-artifact.version>3.6.3</maven-artifact.version>
