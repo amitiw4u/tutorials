@@ -130,7 +130,7 @@
     </profiles>
 
     <properties>
-        <spring-ldap.version>2.3.1.RELEASE</spring-ldap.version>
+        <spring-ldap.version>3.3.4</spring-ldap.version>
         <spring-context.version>4.3.6.RELEASE</spring-context.version>
         <apacheds.version>1.5.5</apacheds.version>
         <shared-ldap.version>0.9.15</shared-ldap.version>
