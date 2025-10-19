@@ -215,7 +215,7 @@
         <jcommander.version>1.78</jcommander.version>
         <lombok.version>1.18.6</lombok.version>
         <cactoos.version>0.43</cactoos.version>
-        <airline.version>2.7.2</airline.version>
+        <airline.version>3.2.0</airline.version>
         <cache2k.version>1.2.3.Final</cache2k.version>
         <jcabi-aspects.version>0.22.6</jcabi-aspects.version>
         <aspectjrt.version>1.9.2</aspectjrt.version>
