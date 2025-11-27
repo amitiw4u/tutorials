@@ -31,7 +31,7 @@
     </dependencies>
 
     <properties>
-        <influxdb.sdk.version>2.8</influxdb.sdk.version>
+        <influxdb.sdk.version>2.23</influxdb.sdk.version>
     </properties>
 
 </project>
