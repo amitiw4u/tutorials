@@ -7,7 +7,7 @@
     "node_modules"
   ],
   "dependencies": {
-    "@angular/common": "2.4.7",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "2.4.7",
     "@angular/core": "2.4.7",
     "@angular/forms": "2.4.7",
