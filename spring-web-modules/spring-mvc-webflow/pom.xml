@@ -102,7 +102,7 @@
         <!-- Spring -->
         <org.springframework.version>5.0.1.RELEASE</org.springframework.version>
         <!-- Spring Web Flow -->
-        <spring.webflow>2.5.0.RELEASE</spring.webflow>
+        <spring.webflow>4.0.0</spring.webflow>
         <httpcore.version>4.4.5</httpcore.version>
         <httpclient.version>4.5.2</httpclient.version>
         <!-- Maven plugins -->
