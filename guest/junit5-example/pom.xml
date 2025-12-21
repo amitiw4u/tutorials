@@ -52,6 +52,6 @@
     </build>
 
     <properties>
-        <log4j-core.version>2.8.2</log4j-core.version>
+        <log4j-core.version>2.25.3</log4j-core.version>
     </properties>
 </project>
