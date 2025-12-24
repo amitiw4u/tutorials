@@ -49,6 +49,6 @@
     </dependencies>
 
     <properties>
-        <log4j.version>2.11.0</log4j.version>
+        <log4j.version>2.25.3</log4j.version>
     </properties>
 </project>
