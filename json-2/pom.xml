@@ -133,7 +133,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -147,7 +147,7 @@
     <properties>
         <jsoniter.version>0.9.23</jsoniter.version>
         <moshi.version>1.9.2</moshi.version>
-        <fastjson.version>1.2.21</fastjson.version>
+        <fastjson.version>1.2.48</fastjson.version>
     </properties>
 
 </project>
